@@ -1,0 +1,9 @@
+Building Healcoin
+
+See doc/readme-qt.rst for instructions on building Healcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Healcoin.
+
+See doc/build-*.txt for instructions on building healcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Healcoin.
