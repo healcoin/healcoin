@@ -1,10 +1,9 @@
 Healcoin integration/staging tree
 ================================
 
-http://www.healcoin.org
+https://www.healcoin.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Healcoin Developers
+ 
 
 What is Healcoin?
 ----------------
